@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="49" started-at="2020-12-25T13:40:36 EST" finished-at="2020-12-25T13:40:36 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="49" started-at="2020-12-25T13:40:36 EST" finished-at="2020-12-25T13:40:36 EST">
+      <class name="abc.SeleniumTest">
+        <test-method status="PASS" signature="se1()[pri:0, instance:abc.SeleniumTest@35d176f7]" name="se1" duration-ms="8" started-at="2020-12-25T13:40:36 EST" finished-at="2020-12-25T13:40:36 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- se1 -->
+        <test-method status="PASS" signature="se2()[pri:0, instance:abc.SeleniumTest@35d176f7]" name="se2" duration-ms="1" started-at="2020-12-25T13:40:36 EST" finished-at="2020-12-25T13:40:36 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- se2 -->
+      </class> <!-- abc.SeleniumTest -->
+      <class name="abc.AppiumTest">
+        <test-method status="PASS" signature="ap1()[pri:0, instance:abc.AppiumTest@1dfe2924]" name="ap1" duration-ms="1" started-at="2020-12-25T13:40:36 EST" finished-at="2020-12-25T13:40:36 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ap1 -->
+        <test-method status="PASS" signature="ap2()[pri:0, instance:abc.AppiumTest@1dfe2924]" name="ap2" duration-ms="1" started-at="2020-12-25T13:40:36 EST" finished-at="2020-12-25T13:40:36 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ap2 -->
+      </class> <!-- abc.AppiumTest -->
+      <class name="abc.RestAssuredTest">
+        <test-method status="PASS" signature="ra1()[pri:0, instance:abc.RestAssuredTest@6ebc05a6]" name="ra1" duration-ms="1" started-at="2020-12-25T13:40:36 EST" finished-at="2020-12-25T13:40:36 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ra1 -->
+        <test-method status="PASS" signature="ra2()[pri:0, instance:abc.RestAssuredTest@6ebc05a6]" name="ra2" duration-ms="1" started-at="2020-12-25T13:40:36 EST" finished-at="2020-12-25T13:40:36 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ra2 -->
+      </class> <!-- abc.RestAssuredTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
